@@ -1,0 +1,9 @@
+{
+  "name": "PartyLib",
+  "creator": "SirCoderOfJava",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "requires": [
+    "PromiseV2"
+  ]
+}
