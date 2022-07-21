@@ -1,5 +1,3 @@
-/// <reference types="../CTAutocomplete" />
-
 import Promise from "../PromiseV2";
 
 export default function getPartyMembers(deletePartyMessages) {
